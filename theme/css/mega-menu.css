@@ -85,8 +85,8 @@
 	bottom: 0px;
 	z-index: -1;
 	opacity: 0;
-	background-color: #d52b3f;
-	border-top: 13px solid #cd1e32;
+	background-color: #04223C;
+	border-top: 13px solid #011323;
 }
 .cp-mega-menu>ul>li > a:after{
 	content: '';
